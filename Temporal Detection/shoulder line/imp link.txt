@@ -1,0 +1,7 @@
+https://rubikscode.net/2022/06/13/thresholding-edge-contour-and-line-detection-with-opencv/
+
+https://www.analyticsvidhya.com/blog/2022/01/a-comprehensive-guide-on-human-pose-estimation/
+
+https://github.com/pjreddie/darknet/blob/master/data/coco.names
+
+https://pyimagesearch.com/2015/03/30/accessing-the-raspberry-pi-camera-with-opencv-and-python/
